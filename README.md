@@ -15,7 +15,9 @@ The original dataset from Kaggle contains 25000 training images. For experimenta
 
 1. Constructing a basic Convolutional nework from scratch. Link: https://github.com/vishal-burman/Dogs_vs_Cats/tree/master/ConvNet%20from%20Scratch
 
-2. (Upcoming) Adding Data-Augmentaion techniques to reduce overfitting
+2. Adding Data-Augmentaion and Dropout techniques to reduce overfitting. Link: https://github.com/vishal-burman/Dogs_vs_Cats-CNN-Experimentation-/tree/master/ConvNet%20with%20DA%20-%20Dropout
+
+3. (Upcoming)Training our split-small dataset on a pretrained network.
 
 ------------------------------------------
 
