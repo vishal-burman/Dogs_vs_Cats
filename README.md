@@ -11,6 +11,13 @@ The original dataset from Kaggle contains 25000 training images. For experimenta
 
 -----------------------------------------
 
+**Inspiration**
+High model accuracy can usually be achieved with big amounts of data. I personally believe that restricted constraints and less amount of data can foster great algorithmic creativity and derive better results. Therefore all the experiments in this repository is not done on the original 25000 images downloaded from kaggle. Instead I have taken 2000 images(1000 each of cats and dogs) for the training-set and 500 images each of validation-set and test-set
+
+
+
+-----------------------------------------
+
 **The Road-Map of the experimentation is as follows(Ongoing experiment):**
 
 1. Constructing a basic Convolutional nework from scratch. Link: https://github.com/vishal-burman/Dogs_vs_Cats/tree/master/ConvNet%20from%20Scratch
