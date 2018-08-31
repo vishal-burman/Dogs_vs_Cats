@@ -17,7 +17,7 @@ The original dataset from Kaggle contains 25000 training images. For experimenta
 
 2. Adding Data-Augmentaion and Dropout techniques to reduce overfitting. Link: https://github.com/vishal-burman/Dogs_vs_Cats-CNN-Experimentation-/tree/master/ConvNet%20with%20DA%20-%20Dropout
 
-3. (Upcoming)Training our split-small dataset on a pretrained network.
+3. Training our split-small dataset on a pretrained network. Link:https://github.com/vishal-burman/Dogs_vs_Cats-CNN-Experimentation-/tree/master/ConvNet_Pretrained
 
 ------------------------------------------
 
