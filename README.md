@@ -7,11 +7,14 @@ Link: https://www.kaggle.com/c/dogs-vs-cats/data
 ---------------------------------------
 **Description**
 
+
 The original dataset from Kaggle contains 25000 training images. For experimentation purposes I have extracted 2000 images from the original dataset out of which 1000 images(each of Cats & Dogs) consists of Training data and 500(each of Cats & Dogs) images consists of Validation data.
 
 -----------------------------------------
 
 **Inspiration**
+
+
 High model accuracy can usually be achieved with big amounts of data. I personally believe that restricted constraints and less amount of data can foster great algorithmic creativity and derive better results. Therefore all the experiments in this repository is not done on the original 25000 images downloaded from kaggle. Instead I have taken 2000 images(1000 each of cats and dogs) for the training-set and 500 images each of validation-set and test-set
 
 
