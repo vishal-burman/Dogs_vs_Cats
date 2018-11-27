@@ -1,1 +1,1 @@
-**Visualize_Intermediate_Activations**
+**Visualize intermediate-activations of VGG16 model**
