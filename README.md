@@ -31,7 +31,7 @@ High model accuracy can usually be achieved with big amounts of data. I personal
 
 4. Fine-tuning our pretrained network to improve accuracy. Link:https://github.com/vishal-burman/Dogs_vs_Cats-CNN-Experimentation-/tree/master/ConvNet_Pretrained_FineTuning
 
-5.Visualizing the intermediate activations of VGG16 model. Link:https://github.com/vishal-burman/Dogs_vs_Cats-CNN-Experimentation-/tree/master/Visualize_Intermediate_Activations
+5. Visualizing the intermediate activations of VGG16 model. Link:https://github.com/vishal-burman/Dogs_vs_Cats-CNN-Experimentation-/tree/master/Visualize_Intermediate_Activations
 
 ------------------------------------------
 
